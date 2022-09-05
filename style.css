@@ -2,7 +2,7 @@
 
 body {
   align-items: center;
-  background: url(assets/MDD.jpg);
+  background: url(MDD.jpg);
   background-size: cover; /* <------ */
   overscroll-behavior: none;
   background-position: center;
